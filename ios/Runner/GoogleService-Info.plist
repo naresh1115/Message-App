@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>982662058356-fnk3pt04nio4h9q3e1j7h43mibdqt199.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.982662058356-fnk3pt04nio4h9q3e1j7h43mibdqt199</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>982662058356-lpourm57d5n2v2ibn3t6lsvrcpm44n1n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCoTd_OlNqfOQJJ4bNLLfjkcGyMW25qMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982662058356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kaleo.chat.app</string>
+	<key>PROJECT_ID</key>
+	<string>login-2578f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-2578f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982662058356:ios:8a6eee397ba0a667badc21</string>
+</dict>
+</plist>
